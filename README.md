@@ -4,5 +4,5 @@
 ### Cosas sobre mi
 
 - 👋 Hola me llamo Cristine Marquez.
-- 👀 Siy mas interesada en cosas de diseño.
+- 👀 Soy un junior developer
 - 🌱 Estoy estudiando DAW en CEP
